@@ -15,6 +15,9 @@ pillow = "==6.2.1"
 stripe = "==2.32.0"
 django-debug-toolbar = "==2.0"
 win-unicode-console = "*"
+whitenoise = "*"
+gunicorn = "*"
+dj-database-url = "*"
 
 [requires]
 python_version = "3.7"
